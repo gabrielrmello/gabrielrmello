@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer with experience in [your main stack, e.g., JavaScript, TypeScript, Python, etc.]
+- 💻 Full-stack developer with experience in [your main stack, e.g., Python, Wireshark.]
 - 🎯 Focused on [your main interests, e.g., web development, DevOps, machine learning, etc.]
 - 🌱 Currently learning: [technologies or topics you're working on]
 - 📫 How to reach me: [your email or social media links]
@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark)
 <!-- Add or remove tools as appropriate -->
